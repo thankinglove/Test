@@ -38,4 +38,6 @@ ntp:x:38:
 tcpdump:x:72:
 nscd:x:28:
 jumpserver:x:1003:
-tss:x:59:
+
+
+liangyj = liangyj@566560.com
